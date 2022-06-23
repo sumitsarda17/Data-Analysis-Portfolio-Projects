@@ -15,3 +15,7 @@ In this project I used SQL queries to explore the really big data-sets.
  For Data: I run all the queries one by one and save it as a excel file then import that excel files in Tableau.
  
  Link of the Dashboard: https://public.tableau.com/app/profile/sumit.sarda/viz/COVIDDataVisualization_16557484036260/Dashboard1?publish=yes
+ 
+ ## Project 3: DATA CLEANING using SQL
+ In this project I performed Data Cleaning Process on Nashville Housing Data
+ Some of the SQL Queries and Fucntions I used in this project are : ALTER, UPDATE, DELETE, JOIN, SUBSTRING, PARSENAME, CASE, WINDOW FUCNTION and CTE
